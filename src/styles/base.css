@@ -1,0 +1,5 @@
+/* Custom base styles */
+html,
+body {
+  @apply bg-gray-50;
+}
